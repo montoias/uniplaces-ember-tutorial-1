@@ -1,0 +1,7 @@
+<span class="glyphicon glyphicon-plus" aria-hidden="true" {{action "increment"}}></span>
+
+{{counter}}
+
+<span class="glyphicon glyphicon-minus" aria-hidden="true" {{action "decrement"}}></span>
+
+{{yield (hash counter1=counter counter2=counter)}}
