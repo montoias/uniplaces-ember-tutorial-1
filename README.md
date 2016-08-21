@@ -1,7 +1,16 @@
-# Tut-1
+# What have we covered in tutorial #1 
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+We introduced a few concepts that are commonly used when developing an ember app.
+
+We started by giving a brief overview on an ember app structure (https://ember-cli.com/user-guide/#folder-layout and https://ember-cli.com/user-guide/#layout-within-app-directory) using ember-cli. Remember ember-cli is not the same as ember.
+
+Then we started talking about the development of a simple ember app where we introduced a few concepts in a simple manner: 
+- Routing https://guides.emberjs.com/v2.7.0/routing/
+- Templates https://guides.emberjs.com/v2.7.0/templates/handlebars-basics/
+- Components  https://guides.emberjs.com/v2.7.0/components/defining-a-component/
+- Addons https://guides.emberjs.com/v2.7.0/addons-and-dependencies/managing-dependencies/
+
+We also deployed the ember app to heroku https://github.com/tonycoco/heroku-buildpack-ember-cli
 
 ## Prerequisites
 
